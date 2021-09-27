@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
+baseurl: "/deploy-notifications"
 url: "https://mikim83.github.io/deploy-notifications"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "mikim83/deploy-notifications"
   gitter:
   google_plus:
   instagram:
