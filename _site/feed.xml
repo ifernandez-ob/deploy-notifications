@@ -5,27 +5,53 @@
     <atom:link href="/deploy-notifications/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://mikim83.github.io/deploy-notifications/deploy-notifications/</link>
     <description>A website with blog posts and pages</description>
-    <pubDate>Tue, 28 Sep 2021 04:48:26 -0500</pubDate>
+    <pubDate>Tue, 28 Sep 2021 05:12:42 -0500</pubDate>
     
       <item>
-        <title>Deployment v1.0.1</title>
+        <title>Deployment v1.0.4</title>
+        <link>/deploy-notifications/2021/09/28/1632822557-deploy-v1.0.3.html</link>
+        <guid isPermaLink="true">/deploy-notifications/2021/09/28/1632822557-deploy-v1.0.3.html</guid>
+        <description>&lt;h1 id=&quot;we-have-new-application-versions&quot;&gt;We have new application versions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;app-backend: v2.8.2&lt;/li&gt;
+  &lt;li&gt;app-abtch v1.3.4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;app-backend&quot;&gt;app-backend&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-1371: nuevas funcionalidades&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;app-batch&quot;&gt;app-batch&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-1833: consumidor cola ms-delivery&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timestamp: 1632822557&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Sep 2021 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Deployment v1.0.2</title>
         <link>/deploy-notifications/2021/09/28/1632822044-deploy-v1.0.2.html</link>
         <guid isPermaLink="true">/deploy-notifications/2021/09/28/1632822044-deploy-v1.0.2.html</guid>
         <description>&lt;h1 id=&quot;we-have-new-application-versions&quot;&gt;We have new application versions&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;ms-order: v1.7.1&lt;/li&gt;
-  &lt;li&gt;api-mgmt v3.1.0&lt;/li&gt;
+  &lt;li&gt;ms-order: v1.7.2&lt;/li&gt;
+  &lt;li&gt;api-mgmt v3.1.1&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ms-order&quot;&gt;ms-order&lt;/h2&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;OB-1221: optimización consulta ordenes&lt;/p&gt;
+  &lt;p&gt;OB-1226: optimizacion de recursos&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;api-mgmt&quot;&gt;api-mgmt&lt;/h2&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;OB-2234: nuevos endpoints para crear eventos&lt;/p&gt;
+  &lt;p&gt;OB-2260: nuevos endpoints&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Timestamp: 1632822044&lt;/p&gt;
