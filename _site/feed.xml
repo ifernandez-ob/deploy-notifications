@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onebox Deployment Notifications</title>
+    <atom:link href="/deploy-notifications/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://mikim83.github.io/deploy-notifications/deploy-notifications/</link>
+    <description>A website with blog posts and pages</description>
+    <pubDate>Tue, 28 Sep 2021 04:48:26 -0500</pubDate>
+    
+      <item>
+        <title>Deployment v1.0.1</title>
+        <link>/deploy-notifications/2021/09/28/1632822044-deploy-v1.0.2.html</link>
+        <guid isPermaLink="true">/deploy-notifications/2021/09/28/1632822044-deploy-v1.0.2.html</guid>
+        <description>&lt;h1 id=&quot;we-have-new-application-versions&quot;&gt;We have new application versions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ms-order: v1.7.1&lt;/li&gt;
+  &lt;li&gt;api-mgmt v3.1.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ms-order&quot;&gt;ms-order&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-1221: optimización consulta ordenes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;api-mgmt&quot;&gt;api-mgmt&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-2234: nuevos endpoints para crear eventos&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timestamp: 1632822044&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Sep 2021 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Deployment v1.0.1</title>
+        <link>/deploy-notifications/2021/09/27/1632821044-deploy-v1.0.1.html</link>
+        <guid isPermaLink="true">/deploy-notifications/2021/09/27/1632821044-deploy-v1.0.1.html</guid>
+        <description>&lt;h1 id=&quot;we-have-new-application-versions&quot;&gt;We have new application versions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ms-order: v1.7.1&lt;/li&gt;
+  &lt;li&gt;api-mgmt v3.1.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ms-order&quot;&gt;ms-order&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-1221: optimización consulta ordenes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;api-mgmt&quot;&gt;api-mgmt&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-2234: nuevos endpoints para crear eventos&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timestamp: 1632821044&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Sep 2021 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Deployment v1.0.0</title>
+        <link>/deploy-notifications/2021/09/27/1632821040-deploy-v1.0.0.html</link>
+        <guid isPermaLink="true">/deploy-notifications/2021/09/27/1632821040-deploy-v1.0.0.html</guid>
+        <description>&lt;h1 id=&quot;we-have-new-application-versions&quot;&gt;We have new application versions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;app-rest: v3.0.5&lt;/li&gt;
+  &lt;li&gt;app-portal v1.5.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;app-rest&quot;&gt;app-rest&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-2021: vouchers&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;app-portal&quot;&gt;app-portal&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;OB-1234: resfreco de cache inteligente&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timestamp: 1632821040&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Sep 2021 00:00:00 -0500</pubDate>
+      </item>
+    
+  </channel>
+</rss>
